@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **awesome Projects**
 
-- 👯 I’m looking to collaborate on **GitHub 🤝**
+- 👯 I’m looking to collaborate on **GitHub 🤝** 
 
 - 🤝 I’m looking for help with **getting new opportunities 🌱**
 
