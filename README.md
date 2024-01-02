@@ -41,7 +41,9 @@
 
 
 
-<p align=""><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seddiqui&theme=gruvbox" alt="seddiqui" /></p>
+<p align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seddiqui&theme=gruvbox" alt="seddiqui" />
+  <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=seddiqui&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="seddiqui" /></p>
 </p>
 
 
