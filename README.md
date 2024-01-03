@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="seddiqui" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/mateenseddiqui?logo=twitter&style=for-the-badge" alt="mateenseddiqui"  </p>
+<p align="left"> <a href="https://twitter.com/mateenseddiqui" target="blank"><img src="https://img.shields.io/twitter/follow/mateenseddiqui?logo=twitter&style=for-the-badge" alt="mateenseddiqui"  </p>
 
 - 🔭 I’m currently working on awesome Projects
 
