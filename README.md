@@ -38,7 +38,10 @@
 ## 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=seddiqui&show_icons=true&theme=gruvbox)
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seddiqui&theme=gruvbox" alt="seddiqui" />
+<p align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seddiqui&theme=gruvbox" alt="seddiqui" />
+</p>
+
   
 
 
