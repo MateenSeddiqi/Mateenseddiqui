@@ -39,7 +39,7 @@
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateenseddiqi&show_icons=true&theme=gruvbox)
 <p align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mateenseddiqui&theme=gruvbox" alt="mateenseddiqi" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mateenseddiqi&theme=gruvbox" alt="mateenseddiqi" />
 </p>
 
   
